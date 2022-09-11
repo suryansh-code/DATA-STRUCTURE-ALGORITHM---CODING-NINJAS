@@ -14,6 +14,8 @@ Sample Input 2 :
 4
 Sample Output 2 :
 2
+
+ignore the fraction part
 */
 
 #include<iostream>
